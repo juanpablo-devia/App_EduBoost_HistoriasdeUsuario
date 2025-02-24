@@ -45,4 +45,4 @@
 - *Dado que:* No quiero perder tiempo resumiendo  
 - *Yo como:* Estudiante  
 - *Quiero:* Que la app genere resúmenes de mis notas automáticamente  
-- *Debe suceder:* Para facilitar mi estudio y comprensión de los temas.
+- *Debe suceder:* Para facilitar mi estudio y comprensión de los temas
