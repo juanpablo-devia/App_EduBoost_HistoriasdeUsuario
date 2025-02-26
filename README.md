@@ -56,14 +56,14 @@
 - **Quiero:** Que la app me envíe recordatorios según mis hábitos de estudio
 - **Debe suceder:** Para evitar que olvide tareas importantes
 
-## 7. Análisis de Tiempo de Estudio
-- **Prioridad:** Media
-- **Atributo de calidad:** Métricas y retroalimentación
-- **Cuando:** Quiero mejorar mi rendimiento
-- **Dado que:** No sé si administro bien mi tiempo
-- **Yo como:** Estudiante
-- **Quiero:** Que la app registre y analice mis horas de estudio
-- **Debe suceder:** Para recibir recomendaciones de mejora
+## 7. Seguridad y privacidad del usuario 
+- **Prioridad:** Alta 
+- **Atributo de calidad:** Seguridad y privacidad de la informacion
+- **Cuando:** Cuando un usuario se registra o accde a la plataforma OVA
+- **Dado que:** La plataforma maneja informacion academica y personal de los estudiantes
+- **Yo como:** Estudiante resgristrado en la plataforma 
+- **Quiero:** Que los datos personales, academicos sean totalmente confidenciales y que esten protegidos mediante un crifaco 
+- **Debe suceder:** Para garantizar la confidenciabilidad de la informacion y evitar accesos no autorizados 
 
 ## 8. Recomendaciones de Recursos de Estudio
 - **Prioridad:** Alta
